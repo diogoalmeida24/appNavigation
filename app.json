@@ -1,15 +1,15 @@
 {
   "expo": {
-    "name": "CBF_BRASIL",
+    "name": "CBF",
     "slug": "CBF_BRASIL",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/bandeira_brasil.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/brasil_cbf.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#FDD033"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -22,12 +22,12 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "foregroundImage": "./assets/logo_CBF.png",
+        "backgroundColor": "#FDD033"
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/brasil_cbf.png"
     }
   }
 }
